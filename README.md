@@ -3,7 +3,7 @@
 - 🌱 I am currently learning JavaScript
 - 😄 Feel free to connect with me on LinkedIn! 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshadalal)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=eshadalal)](https://github.com/anuraghazra/github-readme-stats)
 https://github-readme-streak-stats.herokuapp.com/?user=eshadalal
 
 <!---
