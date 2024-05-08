@@ -3,8 +3,7 @@
 - 🌱 I am currently learning JavaScript
 - 😄 Feel free to connect with me on LinkedIn! 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=eshadalal)](https://github.com/anuraghazra/github-readme-stats)
-https://github-readme-streak-stats.herokuapp.com/?user=eshadalal
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshadalal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 eshadalal/eshadalal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
