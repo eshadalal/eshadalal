@@ -3,6 +3,8 @@
 - 🌱 I am currently learning JavaScript
 - 😄 Feel free to connect with me on LinkedIn! 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?eshadalal)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 eshadalal/eshadalal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
