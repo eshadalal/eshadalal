@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @eshadalal
-- 🚀 I’m interested in creating software for the future of technology and space. 
-- 🌱 I’m currently learning Python, JavaScript, and Java
-- 💻 I’m looking to collaborate on mobile app development, web apps, AR/VR (or anything really!)
-- 📧 How to reach me: Follow me on GitHub. 
+- 👋 Second-year software engineering student at McMaster University seeking co-op opportunities for Summer 2025
+- 🚀 I’m interested in creating software for the future of technology, aerospace, and finance 
+- 🌱 I am currently learning JavaScript
+- 😄 Feel free to connect with me on LinkedIn! 
 
 <!---
 eshadalal/eshadalal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
