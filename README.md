@@ -4,4 +4,3 @@ Hi there 👋!
 🚀 Interested in creating software for the future of technology, aerospace, and finance
 🌱 Currently learning JavaScript
 😄 Feel free to connect with me on LinkedIn!
-
