@@ -7,7 +7,6 @@ Hi!
 
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=eshadalal
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eshadalal&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshadalal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![eshadalal's Stats](https://github-readme-stats.vercel.app/api?username=eshadalal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![eshadalal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshadalal&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
